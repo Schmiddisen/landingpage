@@ -1,0 +1,1 @@
+This is my first website I created from scratch, following the odin project.
