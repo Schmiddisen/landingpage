@@ -19,7 +19,7 @@
 .leftheader {
     font-size: 24px;
     color: #f9faf8;
-    font-weight: bolder;
+    font-weight: 900;
 }
 
 .rightheader {
@@ -59,7 +59,7 @@ body {
 }
 
 h2 {
-    font-weight: bolder;
+    font-weight: 900;
     font-size: 36px;
     color: #1f2937;
 }
@@ -67,7 +67,7 @@ h2 {
 .container img {
     border-radius: 20px;
     border: 5px solid #3882f6;
-    background-color: #3882f6;
+    margin: 10px;
 }
 
 .content-box {
@@ -88,3 +88,18 @@ h2 {
 .content {
     text-align: center;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    padding: 100px 400px;
+}
+ .quote p {
+    font-weight: 100;
+ }
+
+ .quote #person {
+    text-align: right;
+    font-weight: 900;
+ }
